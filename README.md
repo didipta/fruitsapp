@@ -1,14 +1,2 @@
 
-![1000070437](https://github.com/didipta/fruitsapp/assets/66532706/bc7da171-e72a-4113-a195-548acb531cda)
-![1000070438](https://github.com/didipta/fruitsapp/assets/66532706/485e876c-8e28-420d-80a3-fcb8091f468b)
-![1000070439](https://github.com/didipta/fruitsapp/assets/66532706/baf324a5-0bdc-4df1-ab9b-6cb33d1e506f)
-![1000070440](https://github.com/didipta/fruitsapp/assets/66532706/49abc7f6-39dd-43e4-bf74-7b80640c1ac0)
-![1000070443](https://github.com/didipta/fruitsapp/assets/66532706/f048707d-10cc-438d-8ec9-a1efd4b11d40)
-![1000070444](https://github.com/didipta/fruitsapp/assets/66532706/887d61f5-bcb5-4ef1-8494-03b013c7224e)
-![1000070446](https://github.com/didipta/fruitsapp/assets/66532706/f7647770-ada5-4e33-a43e-5c9050ee752f)
-![1000070447](https://github.com/didipta/fruitsapp/assets/66532706/4802889b-42a4-4390-a0d0-a6826c1fe48a)
-![1000070445](https://github.com/didipta/fruitsapp/assets/66532706/b9cd9a48-e1d0-4221-8d3f-44d25ef982ae)
-![1000070448](https://github.com/didipta/fruitsapp/assets/66532706/99b07a54-2cb0-4a57-bd18-923f756fdb4b)
-![1000070449](https://github.com/didipta/fruitsapp/assets/66532706/2ae66be1-eeef-4f24-aeaf-a177a061c740)
-![1000070441](https://github.com/didipta/fruitsapp/assets/66532706/6e583795-f238-4427-a597-51a74b4cdc14)
-![1000070442](https://github.com/didipta/fruitsapp/assets/66532706/d473a9ad-8c94-4334-9f13-f5510c2e3737)
+
