@@ -1,16 +1,14 @@
-# foodecommerce
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1000070437](https://github.com/didipta/fruitsapp/assets/66532706/ac8134e6-0896-4526-bbe7-0adbbda73867)
+![1000070438](https://github.com/didipta/fruitsapp/assets/66532706/bc841dad-8d5c-471e-8828-473378a70eb6)
+![1000070439](https://github.com/didipta/fruitsapp/assets/66532706/7a7afeb4-c7d5-4fee-838a-128c12fc0828)
+![1000070440](https://github.com/didipta/fruitsapp/assets/66532706/5c8a4996-3560-4dfb-8c1c-92079b34ead2)
+![1000070443](https://github.com/didipta/fruitsapp/assets/66532706/f3e5d935-b901-460e-9422-b739e2b4f23a)
+![1000070444](https://gi![1000070447](https://github.com/didipta/fruitsapp/assets/66532706/3cfca8c0-7bbf-4e7b-b0d7-44fbdaab3e46)
+thub.com/didipta/fruitsapp/assets/66532706/c015a775-fe06-4822-90b2-ddb3c7cc52eb)
+![1000070446](https://github.com/didipta/fruitsapp/assets/66532706/8a3702a1-bfa7-4966-9f49-d82bf9380104)
+![1000070445](https://github.com/didipta/fruitsapp/assets/66532706/ec42906b-8ad7-4f86-a58f-23c3e5c00c8b)
+![1000070448](https://gi![1000070449](https://github.com/didipta/fruitsapp/assets/66532706/cd2eda47-4087-43db-bfe1-9cc379424d0f)
+thub.com/didipta/fruitsapp/assets/66532706/ef56a3e4-a73a-4917-bfec-e0df267d903a)
+![1000070441](https://github.com/didipta/fruitsapp/assets/66532706/e2a8c065-be2d-4df9-95b6-a44bb7127d5e)
+![1000070442](https://github.com/didipta/fruitsapp/assets/66532706/6837b4f8-7aae-4989-a2b9-1d9747fc758f)
